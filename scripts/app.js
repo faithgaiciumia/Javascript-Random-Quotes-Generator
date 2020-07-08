@@ -30,8 +30,8 @@ function generateQuote() {
   document.getElementById("author").innerHTML="~"+ " " + quotes[randomIndex].author;
   
   // Hides Button Element to After Click
-  document.getElementById("launch").style.visibility='hidden';
+  document.getElementById("launch").style.display='none';
   
   //Displays New Button Text After Click
-  document.getElementById("generate").style.visibility='visible';
+  document.getElementById("generate").style.display='block';
 }
