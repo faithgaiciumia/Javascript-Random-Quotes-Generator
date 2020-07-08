@@ -6,6 +6,9 @@ html {
   background-color: #2d3436;
   background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
 }
+/*body {
+				background-image: url(image/bg-art.jpg);
+				}*/
 #quote-box {
   width: 60vw;
   margin: 10vh auto 0;
